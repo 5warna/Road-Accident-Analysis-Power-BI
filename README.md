@@ -37,6 +37,7 @@ Analyzing accident data is paramount for enhancing safety measures and staying p
    . Total Casualties and Total Accidents by Police Force for Current Year.
 
 
+
 Cards-Accident Severity by Casualties Analysis(Total Current Year Casualties, Total Current Year Accidents, Current Year Casualties Fatal, 
 
 Current Year Casualties Serious, Current Year Casualties Slight).
